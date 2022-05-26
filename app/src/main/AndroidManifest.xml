@@ -14,7 +14,20 @@
         android:theme="@style/Theme.Academy"
         tools:targetApi="31">
         <activity
-            android:name=".HomeActivity"
+            android:name=".ui.detail.DetailCourseActivity"
+            android:exported="false"
+            android:label="@string/title_activity_detail_course"
+            android:parentActivityName=".ui.home.HomeActivity"
+            android:theme="@style/Theme.Academy.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ui.home.HomeActivity" />
+        </activity>
+        <activity
+            android:name=".ui.reader.CourseReaderActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.home.HomeActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

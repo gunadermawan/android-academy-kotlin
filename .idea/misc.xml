@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/mobile programming/evalAndroid/academy/app/src/main/res/layout/activity_detail_course.xml" value="0.22083333333333333" />
         <entry key="..\:/mobile programming/evalAndroid/academy/app/src/main/res/layout/activity_main.xml" value="0.22083333333333333" />
+        <entry key="..\:/mobile programming/evalAndroid/academy/app/src/main/res/layout/fragment_first.xml" value="0.22083333333333333" />
       </map>
     </option>
   </component>
