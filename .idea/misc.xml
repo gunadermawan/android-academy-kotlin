@@ -10,10 +10,20 @@
         <entry key="..\:/mobile programming/evalAndroid/academy/app/src/main/res/drawable/ic_error.xml" value="0.195" />
         <entry key="..\:/mobile programming/evalAndroid/academy/app/src/main/res/drawable/ic_loading.xml" value="0.195" />
         <entry key="..\:/mobile programming/evalAndroid/academy/app/src/main/res/drawable/ic_share_blue.xml" value="0.195" />
+        <entry key="..\:/mobile programming/evalAndroid/academy/app/src/main/res/layout/activity_course_reader.xml" value="0.22083333333333333" />
         <entry key="..\:/mobile programming/evalAndroid/academy/app/src/main/res/layout/activity_detail_course.xml" value="0.22083333333333333" />
+        <entry key="..\:/mobile programming/evalAndroid/academy/app/src/main/res/layout/activity_home.xml" value="0.22083333333333333" />
         <entry key="..\:/mobile programming/evalAndroid/academy/app/src/main/res/layout/activity_main.xml" value="0.22083333333333333" />
-        <entry key="..\:/mobile programming/evalAndroid/academy/app/src/main/res/layout/content_detail_course.xml" value="0.1" />
+        <entry key="..\:/mobile programming/evalAndroid/academy/app/src/main/res/layout/content_detail_course.xml" value="0.264" />
+        <entry key="..\:/mobile programming/evalAndroid/academy/app/src/main/res/layout/fragment_academy.xml" value="0.22083333333333333" />
+        <entry key="..\:/mobile programming/evalAndroid/academy/app/src/main/res/layout/fragment_bookmark.xml" value="0.22083333333333333" />
         <entry key="..\:/mobile programming/evalAndroid/academy/app/src/main/res/layout/fragment_first.xml" value="0.22083333333333333" />
+        <entry key="..\:/mobile programming/evalAndroid/academy/app/src/main/res/layout/fragment_module_content.xml" value="0.22083333333333333" />
+        <entry key="..\:/mobile programming/evalAndroid/academy/app/src/main/res/layout/fragment_module_list.xml" value="0.22083333333333333" />
+        <entry key="..\:/mobile programming/evalAndroid/academy/app/src/main/res/layout/items_academy.xml" value="0.21979166666666666" />
+        <entry key="..\:/mobile programming/evalAndroid/academy/app/src/main/res/layout/items_bookmark.xml" value="0.21979166666666666" />
+        <entry key="..\:/mobile programming/evalAndroid/academy/app/src/main/res/layout/items_module_list.xml" value="0.21979166666666666" />
+        <entry key="..\:/mobile programming/evalAndroid/academy/app/src/main/res/layout/items_module_list_custom.xml" value="0.22083333333333333" />
       </map>
     </option>
   </component>
