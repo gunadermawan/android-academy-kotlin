@@ -14,6 +14,13 @@ import com.gunder.academy.ui.detail.DetailCourseActivity
 class AcademyAdapter : RecyclerView.Adapter<AcademyAdapter.CourseViewHolder>() {
     private var listCourses = ArrayList<CourseEntity>()
 
+    fun setCourses(courses: List<CourseEntity>?) {
+        if (courses != null) {
+            this.listCourses.clear()
+            this.listCourses.addAll(courses)
+        }
+    }
+
     class CourseViewHolder(private val binding: ItemsAcademyBinding) :
         RecyclerView.ViewHolder(binding.root) {
         fun bind(course: CourseEntity) {
