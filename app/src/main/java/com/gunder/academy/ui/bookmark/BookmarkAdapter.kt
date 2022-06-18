@@ -53,6 +53,7 @@ class BookmarkAdapter(private val callBack: BookmarkFragmentCallback) :
 
     override fun onBindViewHolder(holder: CourseViewHolder, position: Int) {
         val course = listCourses[position]
+        holder.bind(course)
     }
 
     override fun getItemCount(): Int = listCourses.size
